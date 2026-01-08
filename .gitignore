@@ -2,7 +2,7 @@
 node_modules/
 node_modules
 # Environment variables
-.env
+
 
 # Data files (old JSON storage)
 data.json
