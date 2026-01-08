@@ -1,0 +1,27 @@
+{
+  "name": "scaller-server",
+  "version": "1.0.0",
+  "description": "Scaller - Cal.com Clone Backend API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "scheduling",
+    "booking",
+    "calendar"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "date-fns": "^3.6.0",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.1",
+    "nodemailer": "^7.0.12",
+    "nodemon": "^3.0.3",
+    "pg": "^8.16.3",
+    "uuid": "^9.0.1"
+  }
+}
